@@ -1,5 +1,5 @@
 # winapi
-##Arseniy Sitnikov MIPT 7 semester##
+**Arseniy Sitnikov MIPT 7 semester**
 
 Running on your device:
 Clone:
