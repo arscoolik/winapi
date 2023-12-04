@@ -1,6 +1,7 @@
 # winapi
 **Arseniy Sitnikov MIPT 7 semester**
-
+________________________________________________________________
+**First homework **
 
 Running on your device:  
 Clone:  
@@ -13,3 +14,15 @@ Build:
 Run:  
     `./server`  
     `./client <ipv4 addr>`  
+________________________________________________________________________________
+** Second homework **
+Running on your device:  
+Clone:  
+    `git clone https://github.com/arscoolik/winapi.git`
+Enter the directory:  
+   ` cd winapi`  
+Build:   
+    `ml /c asm.asm`
+    `cl main.c asm.obj`
+Run:
+    `.\main.exe`
